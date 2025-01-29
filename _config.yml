@@ -30,7 +30,7 @@ twitter_username: betpartner
 github_username:  smacrico
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
